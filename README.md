@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My current projects:
+
+- Java & Javascript: [Secret Gallery](https://github.com/joelmce/secret-gallery/), and Python (WIP): [NFTs for Maya](https://github.com/joelmce/maya-script/)
+
+📫 How to reach me: 
+[Twitter](https://twitter.com/joelousgg/), [Email](mailto:joelous.mac@gmail.com/)
+
+**Discord**: Joel#6369
+
+
+
 <!--
 **joelmce/joelmce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
