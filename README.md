@@ -7,7 +7,7 @@ My current projects:
 📫 How to reach me: 
 [Twitter](https://twitter.com/joelousgg/), [Email](mailto:joelous.mac@gmail.com/)
 
-**Discord**: Joel#6369
+**Discord**: jmac#6369
 
 
 
